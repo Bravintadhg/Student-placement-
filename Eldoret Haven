@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CampusStay Eldoret | Verified Student Housing Near UoE</title>
+  <meta name="description" content="Verified student hostels and bedsitters near University of Eldoret. No scams. No agents. Fast placement." />
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; background: #f7f7f7; color: #222; }
+    header { background: #0f4c81; color: white; padding: 20px; }
+    header h1 { margin: 0; }
+    header p { margin: 5px 0 0; }
+    section { padding: 30px 20px; max-width: 900px; margin: auto; }
+    .cta { background: #e9f2fb; padding: 25px; border-radius: 8px; margin-top: 20px; }
+    .btn { display: inline-block; background: #0f4c81; color: white; padding: 12px 18px; text-decoration: none; border-radius: 5px; margin-top: 10px; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; }
+    .card { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.08); }
+    footer { background: #222; color: #bbb; text-align: center; padding: 20px; font-size: 14px; }
+    .highlight { color: #0f4c81; font-weight: bold; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>CampusStay Eldoret</h1>
+  <p>Verified Student Housing Near University of Eldoret</p>
+</header>
+
+<section>
+  <h2>Find Safe, Verified Student Housing</h2>
+  <p>
+    CampusStay Eldoret helps students and parents find <span class="highlight">trusted hostels and bedsitters</span>
+    near the University of Eldoret. No fake agents. No scams. Just verified places.
+  </p>
+
+  <div class="cta">
+    <h3>Looking for a Place to Stay?</h3>
+    <p>Tell us your budget and preferred location. We connect you to verified options.</p>
+    <a class="btn" href="#student-form">Request Housing</a>
+  </div>
+</section>
+
+<section>
+  <h2>Why Use CampusStay?</h2>
+  <div class="grid">
+    <div class="card">
+      <h3>Verified Listings</h3>
+      <p>All hostels and houses are physically checked before listing.</p>
+    </div>
+    <div class="card">
+      <h3>No Agents</h3>
+      <p>You deal directly with caretakers and owners. Transparent pricing.</p>
+    </div>
+    <div class="card">
+      <h3>Close to Campus</h3>
+      <p>We focus on walking-distance housing around UoE.</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>For Hostel & Property Owners</h2>
+  <p>
+    We help you fill empty rooms with verified students during intake periods.
+    Listing is free for the first intake.
+  </p>
+  <a class="btn" href="#landlord-form">Register Your Property</a>
+</section>
+
+<section id="student-form">
+  <h2>Student Housing Request</h2>
+  <p>Fill this form and we will contact you on WhatsApp.</p>
+  <p><strong>👉 Replace this section with your Google Form embed link.</strong></p>
+</section>
+
+<section id="landlord-form">
+  <h2>Landlord / Hostel Registration</h2>
+  <p>Partner with us to reach serious student tenants.</p>
+  <p><strong>👉 Replace this section with your Google Form embed link.</strong></p>
+</section>
+
+<section>
+  <h2>Contact</h2>
+  <p>
+    📍 Eldoret, Kenya<br />
+    📞 WhatsApp: 07XXXXXXXX<br />
+    📧 Email: info@campusstayeldoret.co.ke
+  </p>
+</section>
+
+<footer>
+  <p>© 2026 CampusStay Eldoret. Built for students. Powered by trust.</p>
+</footer>
+
+</body>
+</html>
